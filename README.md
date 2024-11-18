@@ -12,8 +12,4 @@ Full Stack Developer and Chemist with 4+ years of experience in web development 
 I get excited about opportunities where I can work with a team of creative people on long-term visionary projects.
 
 Shoot me a message at nlhogsten@gmail.com!
-
-<!---
-nlhogsten/nlhogsten is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<br/>
