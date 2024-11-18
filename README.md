@@ -31,7 +31,11 @@ Shoot me a message at nlhogsten@gmail.com!
 
 <br/>
 
-<h2>Graphic Design</h2>
+<div class="content">
+  <div>
+    </div>
+  <h2>Graphic Design</h2>
+</div>
 
           
           
