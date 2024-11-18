@@ -29,7 +29,7 @@ Shoot me a message at nlhogsten@gmail.com!
 <img align="left" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-plain-wordmark.svg" />
 </div>
 
-<br/>
+
 
 <h2>Graphic Design</h2>
 
