@@ -35,11 +35,12 @@ Shoot me a message at nlhogsten@gmail.com!
 <br/>
 
 <div style="margin-bottom: 20px;" >
-  <h2 style="margin-bottom: 10px;">Web Development</h2>
+  <h2 style="margin-bottom: 10px;">GRahpic & Video Design</h2>
   <div style="display: flex;"> 
-    <img style="margin-right: 50px; width: 45px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />       
-    <img style=" margin-right: 50px; width: 45px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />      
-    <img style="margin-right: 50px; width: 45px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" />      
+    <img style=" margin-right: 50px; width: 45px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/illustrator/illustrator-plain.svg" />       
+    <img style=" margin-right: 50px; width: 45px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/premierepro/premierepro-original.svg" />     
+    <img style=" margin-right: 50px; width: 45px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg" />  
+    <img style=" margin-right: 50px; width: 45px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/aftereffects/aftereffects-original.svg" />
   </div>
 </div>
 
