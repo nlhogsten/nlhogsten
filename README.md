@@ -26,6 +26,9 @@ Shoot me a message at nlhogsten@gmail.com!
   .section {
     margin-bottom: 20px; 
   }
+  img {
+    margin-left: 20px;
+  }
 </style>
 
 <div class="section">
