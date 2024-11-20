@@ -1,11 +1,14 @@
-  _   _           _              _    _                         _                  
- | \ | |         | |            | |  | |                       | |                 
- |  \| |   __ _  | |_    ___    | |__| |   ___     __ _   ___  | |_    ___   _ __  
- | . ` |  / _` | | __|  / _ \   |  __  |  / _ \   / _` | / __| | __|  / _ \ | '_ \ 
- | |\  | | (_| | | |_  |  __/   | |  | | | (_) | | (_| | \__ \ | |_  |  __/ | | | |
- |_| \_|  \__,_|  \__|  \___|   |_|  |_|  \___/   \__, | |___/  \__|  \___| |_| |_|
-                                                   __/ |                           
-                                                  |___/                            
+```
+| \ | |         | |            | |  | |                       | |                 
+|  \| |   __ _  | |_    ___    | |__| |   ___     __ _   ___  | |_    ___   _ __  
+| . ` |  / _` | | __|  / _ \   |  __  |  / _ \   / _` | / __| | __|  / _ \ | '_ \ 
+| |\  | | (_| | | |_  |  __/   | |  | | | (_) | | (_| | \__ \ | |_  |  __/ | | | |
+|_| \_|  \__,_|  \__|  \___|   |_|  |_|  \___/   \__, | |___/  \__|  \___| |_| |_|
+                                                 __/ |                           
+                                                |___/                            
+
+```            
+                             
 <h1>Nate Hogsten</h1>
 
 I’m a Full Stack Developer with expertise in building online marketplaces, GIS/mapping features, and user authentication systems. My focus lies at the intersection of frontend and backend development, where intuitive visual design meets practical functionality.
