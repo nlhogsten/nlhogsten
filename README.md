@@ -1,8 +1,8 @@
 <h1>Nate Hogsten</h1>
 
-I’m a Full Stack Developer with experience engineering online marketplaces, GIS/mapping features, and authentication. I thrive at the intersection of technology and sustainability, building innovative frontend and backend systems while driving impactful cost-saving initiatives.
+I’m a Full Stack Developer with expertise in building online marketplaces, GIS/mapping features, and user authentication systems. My focus lies at the intersection of frontend and backend development, where intuitive visual design meets practical functionality.
 
-- Founded an e-commerce neighborhood compost company Kaimuki Compost Collective
+- Founded Kaimuki Compost Collective, an e-commerce neighborhood composting platform.
 - Worked Department of Defense (DoD) and State level projects
 - Egineered a Customer Relationship Management (CRM) platform
 - Technical skills in React/Next.js, Node.js, Python, SQL, Typescript & Javascript
