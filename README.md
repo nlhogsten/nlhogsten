@@ -17,9 +17,9 @@ Shoot me a message at nlhogsten@gmail.com!
 
 <div style="margin-bottom: 20px;" >
   <h2 style="margin-bottom: 10px;">Web Development</h2>
-  <div style="display: flex; justify-content: space-between;"> 
+  <div style="display: flex;> 
     <img style="padding-right:50px; width: 45px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />       
-    <img style="padding-right: 10px; display: inline-block; width: 45px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />      
+    <img style="padding-right: 10px; width: 45px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />      
     <img style="padding-right: 10px; display: inline-block; width: 45px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" />      
     <img style="padding-right: 10px; display: inline-block; width: 45px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" />        
     <img style="padding-right: 10px; display: inline-block; width: 45px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" />        
