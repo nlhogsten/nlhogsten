@@ -36,7 +36,7 @@ Shoot me a message at nlhogsten@gmail.com!
 <br/>
 
 <div style="margin-bottom: 20px;" >
-  <h2 style="margin-bottom: 10px;">GRahpic & Video Design</h2>
+  <h2 style="margin-bottom: 10px;">Graphic & Video Design</h2>
   <div style="display: flex;"> 
     <img style=" margin-right: 50px; width: 45px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/illustrator/illustrator-plain.svg" />       
     <img style=" margin-right: 50px; width: 45px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/premierepro/premierepro-original.svg" />     
