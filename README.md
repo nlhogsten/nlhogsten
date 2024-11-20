@@ -18,7 +18,7 @@ Shoot me a message at nlhogsten@gmail.com!
 <div style="margin-bottom: 20px; clear: both;" >
   <h2 style="margin-bottom: 10px;">Web Development</h2>
   <div class="icon-container"> 
-    <img style="display: inline-block; margin-right: 10px; width: 40px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />       
+    <img style="display: inline-block; margin-right: 30px; width: 40px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />       
     <img style="display: inline-block; margin-right: 10px; width: 40px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />      
     <img style="display: inline-block; margin-right: 10px; width: 40px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" />      
     <img style="display: inline-block; margin-right: 10px; width: 40px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" />        
