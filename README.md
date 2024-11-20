@@ -6,9 +6,7 @@
         \/_/ \/_/ \/_/\/_/   \/_/  \/_____/     \/_/\/_/ \/_____/ \/_____/ \/_____/   \/_/  \/_____/ \/_/ \/_/                                                                                                                                 
 ```            
                              
-<h1>Nate Hogsten</h1>
-
-I’m a Full Stack Developer with expertise in building online marketplaces, GIS/mapping features, and user authentication systems. My focus lies at the intersection of frontend and backend development, where intuitive visual design meets practical functionality.
+My name is Nate Hogsten and I’m a Full Stack Developer with expertise in building online marketplaces, GIS/mapping features, and user authentication systems. My focus lies at the intersection of frontend and backend development, where intuitive visual design meets practical functionality.
 
 - Founded Kaimuki Compost Collective, an e-commerce neighborhood composting platform.
 - Worked Department of Defense (DoD) and State level projects
