@@ -10,7 +10,7 @@ I’m a Full Stack Developer with experience engineering online marketplaces, GI
 
 I’m passionate about collaborating with creative teams to deliver visionary, long-term projects. Let’s build something remarkable together!
 
-📧 Reach out: nlhogsten@gmail.com
+📧 Shoot me a message at nlhogsten@gmail.com
 
 <br/> 
 
