@@ -15,7 +15,7 @@ Shoot me a message at nlhogsten@gmail.com!
 
 <br/> 
 
-<div style="margin-bottom: 20px; clear: both;" >
+<div style="margin-bottom: 20px;" >
   <h2 style="margin-bottom: 10px;">Web Development</h2>
   <div style="display: flex;"> 
     <img style="margin-right: 30px; width: 45px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />       
@@ -34,7 +34,7 @@ Shoot me a message at nlhogsten@gmail.com!
 
 <br/>
 
-<div style="margin-bottom: 20px; clear: both;" >
+<div style="margin-bottom: 20px;" >
   <h2 style="margin-bottom: 10px;">Web Development</h2>
   <div style="display: flex;"> 
     <img style="margin-right: 50px; width: 45px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />       
