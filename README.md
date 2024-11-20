@@ -18,7 +18,7 @@ Shoot me a message at nlhogsten@gmail.com!
   .icon-container {
     display: flex;
     flex-wrap: wrap;
-    gap: 30px;
+
   }
   .icon-container img {
     width: 50px;
