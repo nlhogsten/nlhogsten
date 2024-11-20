@@ -1,17 +1,16 @@
 <h1>Nate Hogsten</h1>
 
-Full Stack Developer and Chemist with 4+ years of experience in web development and environmental consultation. I help companies develop frontend and backend web features and specialize in cutting costs with efficient resource use and waste reduction methods.
+I'm a Full Stack Developer with experience building online marktplaces, GIS mapping, and 
 
 - Founded an e-commerce neighborhood compost company Kaimuki Compost Collective
-- Managed Department of Defense (DoD) and State level environmental contracts
-- Developed in-house Customer Relationship Management (CRM) software
-- Worked on nationally publicized environmental investigation and remediation projects
-- Fluent in English and intermediate in Japanese and Spanish
+- Worked Department of Defense (DoD) and State level projects
+- Egineered a Customer Relationship Management (CRM) platform
 - Technical skills in React/Next.js, Node.js, Python, SQL, Typescript & Javascript
+- Fluent in English, with working proficiency in Japanese and Spanish.
 
-I get excited about opportunities where I can work with a team of creative people on long-term visionary projects.
+I’m passionate about collaborating with creative teams to deliver visionary, long-term projects. Let’s build something remarkable together!
 
-Shoot me a message at nlhogsten@gmail.com!
+📧 Reach out: nlhogsten@gmail.com
 
 <br/> 
 
