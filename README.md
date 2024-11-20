@@ -1,7 +1,7 @@
 ```
        __   __   ______   ______  ______       __  __   ______   ______   ______   ______  ______   __   __    
-      /\ "-.\ \ /\  __ \ /\__  _\/\  ___\     /\ \_\ \ /\  __ \ /\  ___\ /\  ___\ /\__  _\/\  ___\ /\ "-.\ \   
-      \ \ \-.  \\ \  __ \\/_/\ \/\ \  __\     \ \  __ \\ \ \/\ \\ \ \__ \\ \___  \\/_/\ \/\ \  __\ \ \ \-.  \  
+       /\ "-.\ \ /\  __ \ /\__  _\/\  ___\     /\ \_\ \ /\  __ \ /\  ___\ /\  ___\ /\__  _\/\  ___\ /\ "-.\ \   
+       \ \ \-.  \\ \  __ \\/_/\ \/\ \  __\     \ \  __ \\ \ \/\ \\ \ \__ \\ \___  \\/_/\ \/\ \  __\ \ \ \-.  \  
        \ \_\\"\_\\ \_\ \_\  \ \_\ \ \_____\    \ \_\ \_\\ \_____\\ \_____\\/\_____\  \ \_\ \ \_____\\ \_\\"\_\ 
         \/_/ \/_/ \/_/\/_/   \/_/  \/_____/     \/_/\/_/ \/_____/ \/_____/ \/_____/   \/_/  \/_____/ \/_/ \/_/                                                                                                                                 
 ```            
@@ -10,7 +10,7 @@ My name is Nate Hogsten and I’m a Full Stack Developer with expertise in build
 
 - Founded Kaimuki Compost Collective, an e-commerce neighborhood composting platform.
 - Worked Department of Defense (DoD) and State level projects
-- Egineered a Customer Relationship Management (CRM) platform
+- Engineered a Customer Relationship Management (CRM) platform
 - Technical skills in React/Next.js, Node.js, Python, SQL, Typescript & Javascript
 - Fluent in English, with working proficiency in Japanese and Spanish.
 
