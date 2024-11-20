@@ -16,8 +16,7 @@ Shoot me a message at nlhogsten@gmail.com!
 <br/> 
 <style>
   .icon-container {
-    display: flex;
-    flex-wrap: wrap;
+
 
   }
   .icon-container img {
@@ -31,7 +30,7 @@ Shoot me a message at nlhogsten@gmail.com!
   }
 </style>
 
-<div class="section">
+<div class="section" display="flex">
   <h2>Web Development</h2>
   <div class="icon-container"> 
     <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />       
