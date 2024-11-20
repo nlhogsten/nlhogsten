@@ -2,8 +2,8 @@
         __   __   ______   ______  ______       __  __   ______   ______   ______   ______  ______   __   __    
        /\ "-.\ \ /\  __ \ /\__  _\/\  ___\     /\ \_\ \ /\  __ \ /\  ___\ /\  ___\ /\__  _\/\  ___\ /\ "-.\ \   
        \ \ \-.  \\ \  __ \\/_/\ \/\ \  __\     \ \  __ \\ \ \/\ \\ \ \__ \\ \___  \\/_/\ \/\ \  __\ \ \ \-.  \  
-       \ \_\\"\_\\ \_\ \_\  \ \_\ \ \_____\    \ \_\ \_\\ \_____\\ \_____\\/\_____\  \ \_\ \ \_____\\ \_\\"\_\ 
-        \/_/ \/_/ \/_/\/_/   \/_/  \/_____/     \/_/\/_/ \/_____/ \/_____/ \/_____/   \/_/  \/_____/ \/_/ \/_/                                                                                                                                 
+        \ \_\\"\_\\ \_\ \_\  \ \_\ \ \_____\    \ \_\ \_\\ \_____\\ \_____\\/\_____\  \ \_\ \ \_____\\ \_\\"\_\ 
+         \/_/ \/_/ \/_/\/_/   \/_/  \/_____/     \/_/\/_/ \/_____/ \/_____/ \/_____/   \/_/  \/_____/ \/_/ \/_/                                                                                                                                 
 ```            
                              
 My name is Nate Hogsten and I’m a Full Stack Developer with expertise in building online marketplaces, GIS/mapping features, and user authentication systems. My focus lies at the intersection of frontend and backend development, where intuitive visual design meets practical functionality.
