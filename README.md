@@ -8,7 +8,7 @@ I’m a Full Stack Developer with experience engineering online marketplaces, GI
 - Technical skills in React/Next.js, Node.js, Python, SQL, Typescript & Javascript
 - Fluent in English, with working proficiency in Japanese and Spanish.
 
-I’m passionate about collaborating with creative teams to deliver visionary, long-term projects. Let’s build something remarkable together!
+I get excited about opportunities where I can work with a team of creative people on long-term visionary projects
 
 📧 Shoot me a message at nlhogsten@gmail.com
 
