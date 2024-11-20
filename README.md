@@ -30,6 +30,8 @@ Shoot me a message at nlhogsten@gmail.com!
   <img align="left" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-plain-wordmark.svg" />
 </div>
 
+<div style="clear: both;"></div>
+
 <div>
   <h2>Web Development</h2>
   <img align="left" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />       
