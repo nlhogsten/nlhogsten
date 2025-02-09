@@ -21,7 +21,7 @@ I get excited about opportunities where I can work with a team of creative peopl
 <br/> 
 
 <div style="margin-bottom: 20px;" >
-  <h2 style="margin-bottom: 10px;">Languages and Tools</h2>
+  <h2 style="margin-bottom: 10px;">Languages and Frameworks</h2>
   <div style="display: flex;> 
     <img style="padding-right: 10px; display: inline-block; width: 45px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />      
     <img style="padding-right: 10px; display: inline-block; width: 45px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />      
