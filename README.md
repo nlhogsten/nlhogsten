@@ -6,17 +6,16 @@
          \/_/ \/_/ \/_/\/_/   \/_/  \/_____/     \/_/\/_/ \/_____/ \/_____/ \/_____/   \/_/  \/_____/ \/_/ \/_/                                                                                                                                 
 ```            
                              
-My name is Nate Hogsten and I’m a Full Stack Developer with expertise in building online marketplaces, GIS/mapping features, and user authentication systems. My focus lies at the intersection of frontend and backend development, where intuitive visual design meets practical functionality.
+Experience in data science, software development, environmental engineering, and growing and scaling startups. Founder of Kaimuki Compost Collective, where I led business strategy, marketing, and customer acquisition, leveraging data-driven insights to optimize operations. 
 
-- Founded Kaimuki Compost Collective, an e-commerce neighborhood composting platform.
-- Worked Department of Defense (DoD) and State level projects
-- Engineered a Customer Relationship Management (CRM) platform
-- Technical skills in React/Next.js, Node.js, Python, SQL, Typescript & Javascript
-- Fluent in English, with working proficiency in Japanese and Spanish.
+💻 https://github.com/nlhogsten/
 
-I get excited about opportunities where I can work with a team of creative people on long-term visionary projects
-
-📧 Shoot me a message at nlhogsten@gmail.com
+🔹 Business & Growth: Digital marketing (SEO, blog writing, social media, video & graphic content), growth strategy, customer acquisition, market research, automation
+🔹 Data & Visualization: ETL pipelines, SQL Server, SQL, postgreSQL, Python (pandas + numpy), Power BI, Tableau, Excel
+🔹 Artificial Intelligence LLMs & NLP: Vector databases, OpenAI API, Retrieval Augmented Generation (RAG), Text Generation, Sentiment Analysis, Named Entity Recognition (NER), Text Summarization, Prompt Engineering
+🔹 Design Tools: AutoCAD, Adobe Creative Suite, Figma
+🔹 Web Development: Javascript, Typescript, Python, React.js / Next.js, REST APIs, websockets, Node.js
+🔹 Cloud & DevOps: AWS, Azure, GCP, Vercel
 
 <br/> 
 
