@@ -14,7 +14,7 @@ Experience in data science, software development, environmental engineering, and
 <br />
 🔹 Artificial Intelligence LLMs & NLP: Vector databases, OpenAI API, Retrieval Augmented Generation (RAG), Text Generation, Sentiment Analysis, Named Entity Recognition (NER), Text Summarization, Prompt Engineering
 <br />
-🔹 Design Tools: AutoCAD, Adobe Creative Suite, Figma, Blender
+🔹 Design Tools: AutoCAD / AutoDesk, Adobe Creative Suite, Figma, Blender
 <br />
 🔹 Web Development: Javascript, Typescript, Python, React.js / Next.js, REST APIs, websockets, Node.js
 <br />
