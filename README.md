@@ -14,7 +14,7 @@ Experience in data enginering, software development & product design, environmen
 <br/>
 🤖 Artificial Intelligence, LLMs, & NLP: Vector databases, OpenAI API, Retrieval Augmented Generation (RAG), Text Generation, Sentiment Analysis, Named Entity Recognition (NER), Text Summarization, Prompt Engineering
 <br/>
-🌍 Design Tools: GIS / ArcGIS, Google Earth Pro, AutoCAD / AutoDesk, Adobe Creative Suite, Figma, Blender
+🌍 Design Tools: Adobe Creative Suite, Figma, Blender, GIS / ArcGIS, Google Earth Pro, AutoCAD / AutoDesk
 <br/>
 < /> Web Development: Javascript, Typescript, Python FastAPI, React.js / Next.js, REST APIs, websockets, Node.js
 <br/>
