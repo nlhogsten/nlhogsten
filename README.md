@@ -8,19 +8,19 @@
                              
 Experience in data science, software development, environmental engineering, and growing and scaling startups. Founder of Kaimuki Compost Collective, where I led business strategy, marketing, and customer acquisition, leveraging data-driven insights to optimize operations. 
 
-🔹 Business & Growth: Digital marketing (SEO, blog writing, social media, video & graphic content), growth strategy, customer acquisition, market research, automation
+🔹 Data & Visualization: ETL pipelines, SQL, postgres, Python (pandas + numpy), Power BI, Tableau, Excel
 <br />
-🔹 Data & Visualization: ETL pipelines, SQL Server, SQL, postgreSQL, Python (pandas + numpy), Power BI, Tableau, Excel, GIS / ArcGIS, Google Earth Pro
+☁ Cloud & DevOps: AWS, Azure, GCP, Vercel
 <br />
-🔹 Artificial Intelligence LLMs & NLP: Vector databases, OpenAI API, Retrieval Augmented Generation (RAG), Text Generation, Sentiment Analysis, Named Entity Recognition (NER), Text Summarization, Prompt Engineering
+🤖 Artificial Intelligence, LLMs, & NLP: Vector databases, OpenAI API, Retrieval Augmented Generation (RAG), Text Generation, Sentiment Analysis, Named Entity Recognition (NER), Text Summarization, Prompt Engineering
 <br />
-🔹 Design Tools: AutoCAD / AutoDesk, Adobe Creative Suite, Figma, Blender
+🌍 Design Tools: GIS / ArcGIS, Google Earth Pro, AutoCAD / AutoDesk, Adobe Creative Suite, Figma, Blender
 <br />
-🔹 Web Development: Javascript, Typescript, Python, React.js / Next.js, REST APIs, websockets, Node.js
+< /> Web Development: Javascript, Typescript, Python FastAPI, React.js / Next.js, REST APIs, websockets, Node.js
 <br />
-🔹 Cloud & DevOps: AWS, Azure, GCP, Vercel
+💼 Business & Growth: Digital marketing (SEO, blog writing, social media, video & graphic content), growth strategy, customer acquisition, market research, automation
+<br />
 
-<br/> 
 
 <div style="margin-bottom: 20px;" >
   <h2 style="margin-bottom: 10px;">Languages and Frameworks</h2>
