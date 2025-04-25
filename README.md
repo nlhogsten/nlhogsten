@@ -6,7 +6,7 @@
          \/_/ \/_/ \/_/\/_/   \/_/  \/_____/     \/_/\/_/ \/_____/ \/_____/ \/_____/   \/_/  \/_____/ \/_/ \/_/                                                                                                                                 
 ```            
                              
-Experience in data science, software development, environmental engineering, and growing and scaling startups. Founder of Kaimuki Compost Collective, where I led business strategy, marketing, and customer acquisition, leveraging data-driven insights to optimize operations. 
+Experience in data enginering, software development & product design, environmental engineering, and startups. Founder of Kaimuki Compost Collective, where I led business strategy, marketing, and customer acquisition, leveraging data-driven insights to optimize operations. 
 
 🔹 Data & Visualization: ETL pipelines, SQL, postgres, Python (pandas + numpy), Power BI, Tableau, Excel
 <br/>
