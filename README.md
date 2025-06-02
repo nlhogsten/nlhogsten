@@ -5,7 +5,7 @@
         \ \_\\"\_\\ \_\ \_\  \ \_\ \ \_____\    \ \_\ \_\\ \_____\\ \_____\\/\_____\  \ \_\ \ \_____\\ \_\\"\_\ 
          \/_/ \/_/ \/_/\/_/   \/_/  \/_____/     \/_/\/_/ \/_____/ \/_____/ \/_____/   \/_/  \/_____/ \/_/ \/_/                                                                                                                                 
 ```            
-< /> Web Development: Javascript, Typescript, FastAPI, React.js / Next.js, REST APIs, Express.js websockets, Node.js 
+< /> Web Dev: Supabase Auth & Database, Javascript / Typescript, FastAPI, React.js / Next.js, REST APIs, Express.js, websockets, Node.js 
 <br/>
 
 🔹 Data & Visualization: ETL pipelines, SQL, postgres, Python, dbt, Power BI, Tableau, Excel
