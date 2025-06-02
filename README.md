@@ -17,7 +17,7 @@
 🤖 AI: Vector databases, Retrieval Augmented Generation (RAG), text-to-voice & voice-to-text Generation, Named Entity Recognition (NER)
 <br/>
 
-🌍 Design / CAD / GIS: Adobe Creative Suite, Figma, Blender, Esri / ArcGIS, Google Earth Pro, AutoCAD / AutoDesk
+🌍 Design/CAD/GIS: Adobe Creative Suite, Figma, Blender, Esri / ArcGIS, Google Earth Pro, AutoCAD / AutoDesk
 <br/>
 
 💼 Business & Growth: Digital marketing (SEO, blog writing, social media, video & graphic content), growth strategy, customer acquisition, market research, automation
@@ -53,6 +53,7 @@
     <img style=" margin-right: 50px; width: 45px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/premierepro/premierepro-original.svg" />     
     <img style=" margin-right: 50px; width: 45px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg" />  
     <img style=" margin-right: 50px; width: 45px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/aftereffects/aftereffects-original.svg" />
+    <img style=" margin-right: 50px; width: 45px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/blender/blender-original.svg" /> 
   </div>
 </div>
 
