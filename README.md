@@ -28,8 +28,8 @@
   <div style="display: flex;> 
     <img style="padding-right: 10px; display: inline-block; width: 45px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" /> 
     <img style="padding-right: 10px; display: inline-block; width: 45px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />       
-    <img style="padding-right: 10px; display: inline-block; width: 45px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" />  
-    <img style="padding-right: 10px; display: inline-block; width: 45px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-plain-wordmark.svg" />
+    <img style="padding-right: 10px; display: inline-block; width: 45px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/supabase/supabase-original.svg" />  
+    <img style="padding-right: 10px; display: inline-block; width: 45px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" />
     <img style="padding-right: 10px; display: inline-block; width: 45px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" />      
     <img style="padding-right: 10px; display: inline-block; width: 45px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" />        
     <img style="padding-right: 10px; display: inline-block; width: 45px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" />        
