@@ -41,7 +41,7 @@
     <img style="padding-right: 10px; display: inline-block; width: 45px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-plain-wordmark.svg" />  
     <img style="padding-right: 10px; display: inline-block; width: 45px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuredevops/azuredevops-original.svg" />
         <svg width="55" height="55" viewBox="0 0 55 55" style="vertical-align: middle;">
-          <rect x="5" y="5" width="45" height="45" fill="#e0f2f7" rx="5" ry="5"/> <image href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" x="5" y="5" width="45" height="45"/>
+          <rect x="5" y="5" width="45" height="45" fill="#eee457" rx="5" ry="5"/> <image href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" x="5" y="5" width="45" height="45"/>
         </svg>
   </div>
 </div>
