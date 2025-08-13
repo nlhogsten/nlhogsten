@@ -53,6 +53,7 @@
         <img style="padding-right: 10px; display: inline-block; width: 45px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/npm/npm-original-wordmark.svg" />
         <img style="padding-right: 10px; display: inline-block; width: 45px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/githubactions/githubactions-original.svg" />
         <img style="padding-right: 10px; display: inline-block; width: 45px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original.svg" />
+        <img style="padding-right: 10px; display: inline-block; width: 45px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pnpm/pnpm-original-wordmark.svg" />
   </div>
 </div>
 
