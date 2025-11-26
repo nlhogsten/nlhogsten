@@ -64,7 +64,7 @@
   <div style="display: flex;"> 
     <img style="padding-right: 10px; width: 45px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" /> 
     <img style="padding-right: 10px; width: 45px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" />
-    <img style=" margin-right: 50px; width: 45px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/illustrator/illustrator-plain.svg" />       
+    <img style="padding-right: 10px; width: 45px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/illustrator/illustrator-original.svg" />      
     <img style=" margin-right: 50px; width: 45px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/premierepro/premierepro-original.svg" />     
     <img style=" margin-right: 50px; width: 45px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg" />  
     <img style=" margin-right: 50px; width: 45px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/aftereffects/aftereffects-original.svg" />
