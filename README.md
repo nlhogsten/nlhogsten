@@ -45,6 +45,10 @@
 <br/>
 
 <div style="margin-bottom: 20px;" >
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/dbt.svg" />
+</div>
+
+<div style="margin-bottom: 20px;" >
   <h2 style="margin-bottom: 10px;">Cloud, CI/CD, Devops</h2>
   <div style="display: flex;"> 
         <img style="padding-right: 10px; width: 45px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-plain-wordmark.svg" />
