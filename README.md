@@ -45,7 +45,7 @@
 <br/>
 
 <div style="margin-bottom: 20px;" >
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/dbt.svg" />
+        <img style="padding-right: 10px; display: inline-block; width: 45px;" src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/dbt.svg" />
 </div>
 
 <div style="margin-bottom: 20px;" >
