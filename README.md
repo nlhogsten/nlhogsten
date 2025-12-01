@@ -8,7 +8,7 @@
 < /> Web Dev: Supabase Auth & Database, Javascript / Typescript, FastAPI, React.js / Next.js, REST APIs, Express.js, websockets, Node.js 
 <br/>
 
-🔹 Data & Visualization: ETL pipelines, SQL, postgres, Python, dbt, Power BI, Tableau, Excel
+🔹 Data & Visualization: ETL/ELT, SQL, PostgreSQL, Python, dbt, Power BI, Tableau, Excel
 <br/>
 
 ☁ Cloud & DevOps: AWS, Azure, GCP, Vercel
