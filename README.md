@@ -25,22 +25,20 @@
 
 <div style="margin-bottom: 20px;" >
   <h2 style="margin-bottom: 10px;">Languages & Frameworks</h2>
-  <div style="display: flex;> 
-    <img style="padding-right: 10px; display: inline-block; width: 45px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" /> 
-    <img style="padding-right: 10px; display: inline-block; width: 45px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />       
-    <img style="padding-right: 10px; display: inline-block; width: 45px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/supabase/supabase-original.svg" />  
-    <img style="padding-right: 10px; display: inline-block; width: 45px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" />
-    <img style="padding-right: 10px; display: inline-block; width: 45px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" />      
-    <img style="padding-right: 10px; display: inline-block; width: 45px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" />        
-    <img style="padding-right: 10px; display: inline-block; width: 45px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" />        
-    <img style="padding-right: 10px; display: inline-block; width: 45px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" />
-    <img style="padding-right: 10px; display: inline-block; margin-right: 10px; width: 45px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
-    <img style="display: inline-block; margin-right: 10px; width: 45px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" />
-    <img style="padding-right: 10px; display: inline-block; width: 45px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" />
-    <img style="padding-right: 10px; display: inline-block; width: 45px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-plain-wordmark.svg" />
-    <img style="padding-right: 10px; display: inline-block; width: 45px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg" />
-    <img style="padding-right: 10px; display: inline-block; width: 45px;"
-src="https://raw.githubusercontent.com/nlhogsten/Icons-Fork-Plus-Customs/master/icons/javascript/javascript-original.svg"
+  <div style="display: flex;"> 
+    <img style="padding-right: 10px; display: inline-block; width: 45px;" src="https://raw.githubusercontent.com/nlhogsten/Icons-Fork-Plus-Customs/master/icons/javascript/javascript-original.svg" /> 
+    <img style="padding-right: 10px; display: inline-block; width: 45px;" src="https://raw.githubusercontent.com/nlhogsten/Icons-Fork-Plus-Customs/master/icons/typescript/typescript-original.svg" />       
+    <img style="padding-right: 10px; display: inline-block; width: 45px;" src="https://raw.githubusercontent.com/nlhogsten/Icons-Fork-Plus-Customs/master/icons/supabase/supabase-original.svg" />  
+    <img style="padding-right: 10px; display: inline-block; width: 45px;" src="https://raw.githubusercontent.com/nlhogsten/Icons-Fork-Plus-Customs/master/icons/fastapi/fastapi-original.svg" />
+    <img style="padding-right: 10px; display: inline-block; width: 45px;" src="https://raw.githubusercontent.com/nlhogsten/Icons-Fork-Plus-Customs/master/icons/python/python-original-wordmark.svg" />      
+    <img style="padding-right: 10px; display: inline-block; width: 45px;" src="https://raw.githubusercontent.com/nlhogsten/Icons-Fork-Plus-Customs/master/icons/nextjs/nextjs-original.svg" />        
+    <img style="padding-right: 10px; display: inline-block; width: 45px;" src="https://raw.githubusercontent.com/nlhogsten/Icons-Fork-Plus-Customs/master/icons/nodejs/nodejs-original-wordmark.svg" />        
+    <img style="padding-right: 10px; display: inline-block; width: 45px;" src="https://raw.githubusercontent.com/nlhogsten/Icons-Fork-Plus-Customs/master/icons/react/react-original-wordmark.svg" />
+    <img style="padding-right: 10px; display: inline-block; margin-right: 10px; width: 45px;" src="https://raw.githubusercontent.com/nlhogsten/Icons-Fork-Plus-Customs/master/icons/html5/html5-original.svg" />
+    <img style="display: inline-block; margin-right: 10px; width: 45px;" src="https://raw.githubusercontent.com/nlhogsten/Icons-Fork-Plus-Customs/master/icons/tailwindcss/tailwindcss-original.svg" />
+    <img style="padding-right: 10px; display: inline-block; width: 45px;" src="https://raw.githubusercontent.com/nlhogsten/Icons-Fork-Plus-Customs/master/icons/css3/css3-original-wordmark.svg" />
+    <img style="padding-right: 10px; display: inline-block; width: 45px;" src="https://raw.githubusercontent.com/nlhogsten/Icons-Fork-Plus-Customs/master/icons/postgresql/postgresql-plain-wordmark.svg" />
+    <img style="padding-right: 10px; display: inline-block; width: 45px;" src="https://raw.githubusercontent.com/nlhogsten/Icons-Fork-Plus-Customs/master/icons/nestjs/nestjs-original.svg" />
   </div>
 </div>
 
@@ -49,13 +47,13 @@ src="https://raw.githubusercontent.com/nlhogsten/Icons-Fork-Plus-Customs/master/
 <div style="margin-bottom: 20px;" >
   <h2 style="margin-bottom: 10px;">Cloud, CI/CD, Devops</h2>
   <div style="display: flex;"> 
-        <img style="padding-right: 10px; width: 45px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-plain-wordmark.svg" />
-        <img style="padding-right: 10px; display: inline-block; width: 45px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" />
-        <img style="padding-right: 10px; display: inline-block; width: 45px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuredevops/azuredevops-original.svg" />
-        <img style="padding-right: 10px; display: inline-block; width: 45px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/npm/npm-original-wordmark.svg" />
-        <img style="padding-right: 10px; display: inline-block; width: 45px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/githubactions/githubactions-original.svg" />
-        <img style="padding-right: 10px; display: inline-block; width: 45px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original.svg" />
-        <img style="padding-right: 10px; display: inline-block; width: 45px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pnpm/pnpm-original-wordmark.svg" />
+        <img style="padding-right: 10px; display: inline-block; width: 45px;" src="https://raw.githubusercontent.com/nlhogsten/Icons-Fork-Plus-Customs/master/icons/docker/docker-plain-wordmark.svg" />
+        <img style="padding-right: 10px; display: inline-block; width: 45px;" src="https://raw.githubusercontent.com/nlhogsten/Icons-Fork-Plus-Customs/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" />
+        <img style="padding-right: 10px; display: inline-block; width: 45px;" src="https://raw.githubusercontent.com/nlhogsten/Icons-Fork-Plus-Customs/master/icons/azuredevops/azuredevops-original.svg" />
+        <img style="padding-right: 10px; display: inline-block; width: 45px;" src="https://raw.githubusercontent.com/nlhogsten/Icons-Fork-Plus-Customs/master/icons/npm/npm-original-wordmark.svg" />
+        <img style="padding-right: 10px; display: inline-block; width: 45px;" src="https://raw.githubusercontent.com/nlhogsten/Icons-Fork-Plus-Customs/master/icons/githubactions/githubactions-original.svg" />
+        <img style="padding-right: 10px; display: inline-block; width: 45px;" src="https://raw.githubusercontent.com/nlhogsten/Icons-Fork-Plus-Customs/master/icons/googlecloud/googlecloud-original.svg" />
+        <img style="padding-right: 10px; display: inline-block; width: 45px;" src="https://raw.githubusercontent.com/nlhogsten/Icons-Fork-Plus-Customs/master/icons/pnpm/pnpm-original-wordmark.svg" />
   </div>
 </div>
 
@@ -64,13 +62,26 @@ src="https://raw.githubusercontent.com/nlhogsten/Icons-Fork-Plus-Customs/master/
 <div style="margin-bottom: 20px;" >
   <h2 style="margin-bottom: 10px;">UI, Graphic, & Video Design</h2>
   <div style="display: flex;"> 
-    <img style="padding-right: 10px; width: 45px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" /> 
-    <img style="padding-right: 10px; width: 45px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" />
-    <img style="padding-right: 10px; width: 45px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/illustrator/illustrator-original.svg" />      
-    <img style=" margin-right: 50px; width: 45px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/premierepro/premierepro-original.svg" />     
-    <img style=" margin-right: 50px; width: 45px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg" />  
-    <img style=" margin-right: 50px; width: 45px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/aftereffects/aftereffects-original.svg" />
-    <img style=" margin-right: 50px; width: 45px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/blender/blender-original.svg" /> 
+    <img style="padding-right: 10px; display: inline-block; width: 45px;" src="https://raw.githubusercontent.com/nlhogsten/Icons-Fork-Plus-Customs/master/icons/figma/figma-original.svg" /> 
+    <img style="padding-right: 10px; display: inline-block; width: 45px;" src="https://raw.githubusercontent.com/nlhogsten/Icons-Fork-Plus-Customs/master/icons/flutter/flutter-original.svg" />
+    <img style="padding-right: 10px; display: inline-block; width: 45px;" src="https://raw.githubusercontent.com/nlhogsten/Icons-Fork-Plus-Customs/master/icons/illustrator/illustrator-original.svg" />      
+    <img style="padding-right: 10px; display: inline-block; width: 45px;" src="https://raw.githubusercontent.com/nlhogsten/Icons-Fork-Plus-Customs/master/icons/premierepro/premierepro-original.svg" />     
+    <img style="padding-right: 10px; display: inline-block; width: 45px;" src="https://raw.githubusercontent.com/nlhogsten/Icons-Fork-Plus-Customs/master/icons/photoshop/photoshop-original.svg" />  
+    <img style="padding-right: 10px; display: inline-block; width: 45px;" src="https://raw.githubusercontent.com/nlhogsten/Icons-Fork-Plus-Customs/master/icons/aftereffects/aftereffects-original.svg" />
+    <img style="padding-right: 10px; display: inline-block; width: 45px;" src="https://raw.githubusercontent.com/nlhogsten/Icons-Fork-Plus-Customs/master/icons/blender/blender-original.svg" /> 
+  </div>
+</div>
+
+<br/>
+
+<div style="margin-bottom: 20px;" >
+  <h2 style="margin-bottom: 10px;">Agential Orchestration</h2>
+  <div style="display: flex;"> 
+    <img style="padding-right: 10px; display: inline-block; width: 45px;" src="https://raw.githubusercontent.com/nlhogsten/Icons-Fork-Plus-Customs/master/icons/openai/openai-original.svg" />
+    <img style="padding-right: 10px; display: inline-block; width: 45px;" src="https://raw.githubusercontent.com/nlhogsten/Icons-Fork-Plus-Customs/master/icons/anthropic/anthropic-original.svg" />
+    <img style="padding-right: 10px; display: inline-block; width: 45px;" src="https://raw.githubusercontent.com/nlhogsten/Icons-Fork-Plus-Customs/master/icons/gemini/gemini-original.svg" />
+    <img style="padding-right: 10px; display: inline-block; width: 45px;" src="https://raw.githubusercontent.com/nlhogsten/Icons-Fork-Plus-Customs/master/icons/cursor/cursor-original.svg" />
+    <img style="padding-right: 10px; display: inline-block; width: 45px;" src="https://raw.githubusercontent.com/nlhogsten/Icons-Fork-Plus-Customs/master/icons/windsurf/windsurf-original.svg" />
   </div>
 </div>
 
