@@ -39,6 +39,8 @@
     <img style="padding-right: 10px; display: inline-block; width: 45px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" />
     <img style="padding-right: 10px; display: inline-block; width: 45px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-plain-wordmark.svg" />
     <img style="padding-right: 10px; display: inline-block; width: 45px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg" />
+    <img style="padding-right: 10px; display: inline-block; width: 45px;"
+src="https://raw.githubusercontent.com/nlhogsten/Icons-Form-Plus-Customs/master/icons/javascript/javascript-original.svg"
   </div>
 </div>
 
